@@ -1,0 +1,12 @@
+C:\dev\BankApp\TestApp\bin\Debug\Resources\passwordEncryption.html
+C:\dev\BankApp\TestApp\bin\Debug\CreditCardTranasctionsRetrieval.exe.config
+C:\dev\BankApp\TestApp\bin\Debug\CreditCardTranasctionsRetrieval.exe
+C:\dev\BankApp\TestApp\bin\Debug\CreditCardTranasctionsRetrieval.pdb
+C:\dev\BankApp\TestApp\bin\Debug\BankApp.dll
+C:\dev\BankApp\TestApp\bin\Debug\HtmlAgilityPack.dll
+C:\dev\BankApp\TestApp\bin\Debug\BankApp.pdb
+C:\dev\BankApp\TestApp\bin\Debug\HtmlAgilityPack.pdb
+C:\dev\BankApp\TestApp\bin\Debug\HtmlAgilityPack.xml
+C:\dev\BankApp\TestApp\obj\Debug\CreditCardTranasctionsRetrieval.csprojResolveAssemblyReference.cache
+C:\dev\BankApp\TestApp\obj\Debug\CreditCardTranasctionsRetrieval.exe
+C:\dev\BankApp\TestApp\obj\Debug\CreditCardTranasctionsRetrieval.pdb

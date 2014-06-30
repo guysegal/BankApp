@@ -1,0 +1,16 @@
+C:\dev\BankApp\BankApp.Tests\bin\Debug\Resources\passwordEncryption.html
+C:\dev\BankApp\BankApp.Tests\bin\Debug\BankApp.Tests.dll.config
+C:\dev\BankApp\BankApp.Tests\bin\Debug\BankApp.Tests.dll
+C:\dev\BankApp\BankApp.Tests\bin\Debug\BankApp.Tests.pdb
+C:\dev\BankApp\BankApp.Tests\bin\Debug\BankApp.dll
+C:\dev\BankApp\BankApp.Tests\bin\Debug\FakeItEasy.dll
+C:\dev\BankApp\BankApp.Tests\bin\Debug\nunit.framework.dll
+C:\dev\BankApp\BankApp.Tests\bin\Debug\HtmlAgilityPack.dll
+C:\dev\BankApp\BankApp.Tests\bin\Debug\BankApp.pdb
+C:\dev\BankApp\BankApp.Tests\bin\Debug\FakeItEasy.xml
+C:\dev\BankApp\BankApp.Tests\bin\Debug\nunit.framework.xml
+C:\dev\BankApp\BankApp.Tests\bin\Debug\HtmlAgilityPack.pdb
+C:\dev\BankApp\BankApp.Tests\bin\Debug\HtmlAgilityPack.xml
+C:\dev\BankApp\BankApp.Tests\obj\Debug\BankApp.Tests.csprojResolveAssemblyReference.cache
+C:\dev\BankApp\BankApp.Tests\obj\Debug\BankApp.Tests.dll
+C:\dev\BankApp\BankApp.Tests\obj\Debug\BankApp.Tests.pdb
